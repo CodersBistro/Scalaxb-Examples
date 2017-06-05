@@ -1,4 +1,7 @@
-package com.codersbistro.soapexample.generated
+package com.codersbistro.soapexample
+
+import com.codersbistro.soapexample.generated.Address
+import com.codersbistro.soapexample.generated.`package`.defaultScope
 
 /**
   * Created by loveh on 6/4/2017.
