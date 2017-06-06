@@ -8,5 +8,4 @@ This repository contains examples of serializing deserializing XML to and from S
 # Usage
 	`sbt "run-main com.codersbistro.soapexample.Main"`
 	
-# Guide
-	http://www.codersbistro.com/blog/2017/06/06/serializing-and-de-serializing-xml-in-scala/
+    
